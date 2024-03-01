@@ -1,0 +1,23 @@
+{
+  "name": "askingbot3",
+  "version": "1.0.0",
+  "description": "new ver bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanBarDoc/askingbot3.git"
+  },
+  "dependencies": {
+    "helpershark": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanBarDoc/askingbot3/issues"
+  },
+  "homepage": "https://github.com/RomanBarDoc/askingbot3#readme"
+}
