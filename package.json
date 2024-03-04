@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RomanBarDoc/askingbot3.git"
+    "url": "https://github.com/RomanBarDoc/askingbot3.git"
   },
   "dependencies": {
     "helpershark": "1.0.0",
